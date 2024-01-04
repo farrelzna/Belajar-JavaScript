@@ -1,0 +1,237 @@
+/* * {
+    display: inline-block;
+}
+
+.main1 {
+    width: 150px;
+    height: 200px;
+    background-color: red;
+    padding-top: 300px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.main2 {
+    width: 150px;
+    height: 200px;
+    background-color: orangered;
+    padding-top: 250px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.main3 {
+    width: 150px;
+    height: 200px;
+    background-color: orange;
+    padding-top: 200px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.main4 {
+    width: 150px;
+    height: 200px;
+    background-color: greenyellow;
+    padding-bottom: 150px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.main5 {
+    width: 150px;
+    height: 200px;
+    background-color: green;
+    padding-bottom: 100px;
+    margin-right: 10px;
+    border-radius: 10px
+}
+
+.main6 {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    padding-bottom: 95px;
+    margin-right: 10px;
+    border-radius: 10px
+}
+
+.segitiga1 {
+    height: 0px;
+    width: 0px;
+    border-bottom: solid 170px blueviolet;
+    border-left: solid 100px rgba(255, 255, 255, 0);
+    border-right: solid 100px rgba(255, 255, 255, 0);
+    border-radius: 10px;
+}
+
+.lingkaran1 {
+    width: 115px;
+    height: 115px;
+    background-color: purple;
+    margin-right: 10px;
+    border-radius: 1000px;
+} */
+
+body {
+    background-color: #f1c40f;
+    -webkit-animation: color 1s ease-in 0s infinite alternate running;
+    -moz-animation: color 1.5s linear 0s infinite alternate running;
+    animation: color 1s linear 0s infinite alternate running;
+}
+
+@-webkit-keyframes color {
+    0% {
+        background-color: #ff0000;
+    }
+
+    12% {
+        background-color: #ff4d00;
+    }
+
+    24% {
+        background-color: #ff8400;
+    }
+
+    34% {
+        background-color: #ffe600;
+    }
+
+    43% {
+        background-color: #bbff00;
+    }
+
+    55% {
+        background-color: #1eff00;
+    }
+
+    60% {
+        background-color: #00ffe1;
+    }
+
+    76% {
+        background-color: #0080ff;
+    }
+
+    82% {
+        background-color: #0000ff;
+    }
+
+    95% {
+        background-color: #a600ff;
+    }
+
+    100% {
+        background-color: #ff00c8;
+    }
+}
+
+@-moz-keyframes color {
+    0% {
+        background-color: #ff0000;
+    }
+
+    12% {
+        background-color: #ff4d00;
+    }
+
+    24% {
+        background-color: #ff8400;
+    }
+
+    34% {
+        background-color: #ffe600;
+    }
+
+    43% {
+        background-color: #bbff00;
+    }
+
+    55% {
+        background-color: #1eff00;
+    }
+
+    60% {
+        background-color: #00ffe1;
+    }
+
+    76% {
+        background-color: #0080ff;
+    }
+
+    82% {
+        background-color: #0000ff;
+    }
+
+    95% {
+        background-color: #a600ff;
+    }
+
+    100% {
+        background-color: #ff00c8;
+    }
+}
+
+@keyframes color {
+    0% {
+        background-color: #ff0000;
+    }
+
+    12% {
+        background-color: #ff4d00;
+    }
+
+    24% {
+        background-color: #ff8400;
+    }
+
+    34% {
+        background-color: #ffe600;
+    }
+
+    43% {
+        background-color: #bbff00;
+    }
+
+    55% {
+        background-color: #1eff00;
+    }
+
+    60% {
+        background-color: #00ffe1;
+    }
+
+    76% {
+        background-color: #0080ff;
+    }
+
+    82% {
+        background-color: #0000ff;
+    }
+
+    95% {
+        background-color: #a600ff;
+    }
+
+    100% {
+        background-color: #ff00c8;
+    }
+}
+
+
+
+/* .pagi {
+    background: rgb(255, 176, 120);
+}
+
+.siang {
+    background: rgb(195, 246, 255);
+}
+
+.sore {
+    background: rgb(251, 255, 137);
+}
+
+.malam {
+    background: rgba(118, 127, 255, 0.793);
+} */
