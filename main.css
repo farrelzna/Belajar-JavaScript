@@ -76,17 +76,13 @@
 body {
     background-color: #f1c40f;
     -webkit-animation: color 1s ease-in 0s infinite alternate running;
-    -moz-animation: color 1.5s linear 0s infinite alternate running;
+    -moz-animation: color 0.1s linear 0s infinite alternate running;
     animation: color 1s linear 0s infinite alternate running;
 }
 
 @-webkit-keyframes color {
     0% {
         background-color: #ff0000;
-    }
-
-    12% {
-        background-color: #ff4d00;
     }
 
     24% {
@@ -131,10 +127,6 @@ body {
         background-color: #ff0000;
     }
 
-    12% {
-        background-color: #ff4d00;
-    }
-
     24% {
         background-color: #ff8400;
     }
@@ -175,10 +167,6 @@ body {
 @keyframes color {
     0% {
         background-color: #ff0000;
-    }
-
-    12% {
-        background-color: #ff4d00;
     }
 
     24% {
