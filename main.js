@@ -52,17 +52,6 @@
 //   console.log('Kekecilan ah')
 // }
 
-// ganjil genap
-
-// let angka = 8;
-
-// if(angka %2==0){
-//     console.log('genap')
-// }
-// else{
-//     console.log('ganjil')
-// }
-
 // gatau
 
 // let po = true;
